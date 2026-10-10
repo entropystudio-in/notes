@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.Notes" parent="android:Theme.Material.NoActionBar">
+        <item name="android:colorAccent">#FFD60A</item>
+        <item name="android:colorControlActivated">#FFD60A</item>
+        <item name="android:windowBackground">#000000</item>
+    </style>
+</resources>
